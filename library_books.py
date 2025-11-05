@@ -50,7 +50,7 @@ library_books = [
         "author": "J.R.R. Tolkien",
         "genre": "Fantasy",
         "available": False,
-        "due_date": "2025-11-10",
+        "due_date": "2025-08-10",
         "checkouts": 8
     },
     {
